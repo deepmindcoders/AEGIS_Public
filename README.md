@@ -417,7 +417,7 @@ VITE_UIPATH_ACCESS_TOKEN=<same-token-for-vite>
 UIPATH_USER_TOKEN=<orchestrator-jwt>
 
 # CLI OAuth2 client (for npm run login:uip)
-UIPATH_CLI_CLIENT_ID=89fc94c0-6c49-436d-806c-996d7f6ee2e5
+UIPATH_CLI_CLIENT_ID=<id>
 UIPATH_CLI_CLIENT_SECRET=<secret>
 ```
 
