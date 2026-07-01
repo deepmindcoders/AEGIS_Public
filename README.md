@@ -4,6 +4,8 @@
 
 AEGIS is a multi-agent AI platform built on UiPath for detecting, investigating, and coordinating responses to human trafficking and missing persons cases. It combines a React/TypeScript command center web app, UiPath Python coded agents, Maestro BPMN orchestration, and a Supabase backend into a unified operational system.
 
+<img width="1918" height="966" alt="11" src="https://github.com/user-attachments/assets/0836cc40-61d8-478a-8609-32517ac4065f" />
+
 ---
 
 ## Table of Contents
