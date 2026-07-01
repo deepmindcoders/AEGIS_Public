@@ -6,7 +6,7 @@ AEGIS is a multi-agent AI platform built on UiPath for detecting, investigating,
 
 <img width="1918" height="968" alt="2" src="https://github.com/user-attachments/assets/55a45a10-887b-43d1-a098-67bf540caf54" /> 
 
-**YouTube Link : **https://www.youtube.com/watch?v=kCq38NEIhrs&t
+**YouTube Link :** https://www.youtube.com/watch?v=kCq38NEIhrs&t
 
 All the screenshot of this soluiton are available on the botton of this page 
 ---
