@@ -2,10 +2,11 @@
 
 > **Every Signal Matters. Every Life Counts.**
 
-AEGIS is a multi-agent AI platform built on UiPath for detecting, investigating, and coordinating responses to human trafficking and missing persons cases. It combines a React/TypeScript command center web app, UiPath Python coded agents, Maestro BPMN orchestration, and a Supabase backend into a unified operational system.
+AEGIS is a multi-agent AI platform built on UiPath for detecting, investigating, and coordinating responses to human trafficking and missing persons cases. It combines a React/TypeScript command center web app, UiPath Python coded agents, Maestro BPMN orchestration, and a Supabase backend into a unified operational system. 
 
 <img width="1918" height="968" alt="2" src="https://github.com/user-attachments/assets/55a45a10-887b-43d1-a098-67bf540caf54" />
 
+All the screenshot of this soluiton are available on the botton of this page 
 ---
 
 ## Table of Contents
@@ -687,3 +688,23 @@ uipath-ts-demo/
 Organization: `hackathon26_047` (staging.uipath.com)
 Team: AEGIS Guardian
 Full name: **Agentic Engine for Global Investigation & Safety**
+
+<img width="1918" height="972" alt="1" src="https://github.com/user-attachments/assets/9ce87f21-40cc-4e44-b34f-aabcb603aeaa" />
+<img width="1918" height="968" alt="1 1" src="https://github.com/user-attachments/assets/a3603295-4aeb-4702-882b-e376533e2d0b" />
+<img width="1918" height="968" alt="2" src="https://github.com/user-attachments/assets/8bec856f-04bf-46ea-a0b1-8c9ae6da4a8b" />
+<img width="1918" height="962" alt="3" src="https://github.com/user-attachments/assets/6c34e035-d8db-477e-a79d-fbd884ac8957" />
+<img width="1918" height="968" alt="4" src="https://github.com/user-attachments/assets/ff57690d-3dd1-4cd8-8c00-44f7105585b8" />
+<img width="1918" height="965" alt="5" src="https://github.com/user-attachments/assets/f1101ed0-1822-49d2-943b-242094d1d39e" />
+<img width="1918" height="972" alt="6" src="https://github.com/user-attachments/assets/4992ccba-a538-4933-8c3a-e1480d137e66" />
+<img width="1918" height="966" alt="7" src="https://github.com/user-attachments/assets/b90ef9c1-7d9c-4630-b01c-5244dfe61bdb" />
+<img width="1918" height="971" alt="8" src="https://github.com/user-attachments/assets/8daa81b0-2526-4ac9-a995-2c91d512b8d8" />
+<img width="1918" height="971" alt="8" src="https://github.com/user-attachments/assets/d1ff43a5-dc8d-4263-9c03-a767481f19e3" />
+<img width="1918" height="967" alt="9" src="https://github.com/user-attachments/assets/3dfabfa4-247d-4299-b992-0880be315e07" />
+<img width="1918" height="971" alt="10" src="https://github.com/user-attachments/assets/9751bf7b-a2f7-457c-b3cb-937731307fa8" />
+<img width="1918" height="966" alt="11" src="https://github.com/user-attachments/assets/1b6a0cee-9b71-4824-969f-d15b74877880" />
+
+
+
+
+
+
