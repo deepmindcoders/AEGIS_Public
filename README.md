@@ -67,8 +67,8 @@ All the screenshot of this soluiton are available on the botton of this page
 | Agent Runtime | UiPath Python SDK · LangGraph |
 | Orchestration | UiPath Maestro BPMN · Orchestrator |
 | Auth | UiPath OAuth2 PKCE (staging.uipath.com) |
-| Web Intelligence | Firecrawl API |
-| Deployment | UiPath Studio Web · Coded App (nupkg) |
+| Web Intelligence | Firecrawl API, Data.Gov.In, BrighData, NVidia LocateAnything-3B Model |
+| Deployment | UiPath Studio Web · Coded App (nupkg), Coded Agent, Conversation Agent |
 
 ---
 
